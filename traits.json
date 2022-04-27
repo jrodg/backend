@@ -1,0 +1,39 @@
+[
+    {
+    "type": "backgroundColor",
+    "values": [
+        "balck",
+        "white",
+        "green",
+        "blue"
+        ]
+    },
+    {
+        "type": "pattern",
+        "values":[
+            "plain",
+            "striped",
+            "spotted",
+            "patchy"
+        ]
+    },
+    {
+        "type": "build",
+        "values":[
+            "slander",
+            "stocky",
+            "sporty",
+            "skinny"
+        ]
+    },
+    {
+        "type": "size",
+        "values":[
+            "small",
+            "medium",
+            "large",
+            "enormous"
+        ]
+    }
+
+]
